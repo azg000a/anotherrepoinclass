@@ -7,4 +7,6 @@ public class PracticingLovelyCoding {
 System.out.println("I am trying");
 	}
 
+	public void getHappy(){
+		System.out.println("stop changing my code");
 }
